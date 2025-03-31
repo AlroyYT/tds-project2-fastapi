@@ -871,7 +871,7 @@ def host_your_portfolio_on_github_pages(email):
         "23f2000098@ds.study.iitm.ac.in": "https://github.com/YOGASWETHASANJAYGANDHI", # SD
         "23f2001413@ds.study.iitm.ac.in": "https://debjeetsingha.github.io/", # Debjeet
         "23f1002942@ds.study.iitm.ac.in": "https://aman-v114.github.io/demo_repo/index.html", # Aman
-        "21f3003062@ds.study.iitm.ac.in": "https://aditya-naidu.github.io/iit-githhubPages-testing/" # Aditya
+        "21f3003062@ds.study.iitm.ac.in": "https://aditya-naidu.github.io/iit-githhubPages-testing/", # Aditya
         "23f3001360@ds.study.iitm.ac.in": "https://alroyyt.github.io/" #Alroy
     }
     answer = urls[email]
@@ -889,7 +889,7 @@ def use_google_colab(email):
         "23f2001413@ds.study.iitm.ac.in": "07554", # Debjeet
         "23f1002942@ds.study.iitm.ac.in":"5aba1", # Aman
         "21f3003062@ds.study.iitm.ac.in": "518d1", # Aditya
-        "23f2000942@ds.study.iitm.ac.in":"e70b4" # Aditi
+        "23f2000942@ds.study.iitm.ac.in":"e70b4", # Aditi
         "23f3001360@ds.study.iitm.ac.in":"48b9f" #Alroy
     }
     answer = results[email]
